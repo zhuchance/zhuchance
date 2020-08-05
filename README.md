@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on DJ.5Star my name is Guoyi Zhu, I am an System Operation Engineer for open source.
 - 🌱 I’m currently learning go\python\k8s\envoy\ceph
 - 📫 My [CSDN Blog](https://blog.csdn.net/zhuchance) 
-- 💬 My Email <123@email.com>
+- 💬 My Email <zhuchance@126.com>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhuchance)](https://github.com/anuraghazra/github-readme-stats)
 
