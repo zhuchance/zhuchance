@@ -1,5 +1,5 @@
-<h2 align="center">你好👋，我是 zhuchance</h1>
-<h3 align="center">正在努力学习的运维开发💪</h3>
+<h2 align="center">Hello👋，I am zhuchance</h1>
+<h3 align="center">Operation and maintenance development that is learning hard💪</h3>
 
 - 🤵 I am an System Operation Engineer for open source. He has a solid experience in the middleware and information technology industry for more than 5 years.
 - 🌱 I am currently studying [golang](https://golang.org/)、[kubernetes](https://kubernetes.io/)、[Android](https://istio.io/),I am now a big fan of `kubernetes` & `Docker` 
@@ -7,7 +7,7 @@
 - 💬 If you have any questions about `docker & k8s`, you can contact me by email：<zhuchance@126.com>
 - 👬 I very much hope to be friends with you, to communicate and learn together `docker & k8s`
 
-### 关于我
+### About me
 
 - Guoyi Zhu is an System Operation Engineer for open source. He has a solid experience in the middleware and information technology industry for more than 5 years.
 
@@ -15,15 +15,15 @@
 
 - He also has strong interests in various tech stuff such as Artificial Intelligence, Storage, Smart Home.
 
-- He worked in HUAWEI for 3 years.
+- He worked in HUAWEI for 3 years，He is now working at JD.
 
 - He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
 
 - He enjoys watching movies, swimming, hiking, travelling, writing blogs and learning languages.
 
-- Feel free to connect Guoyi via Github (https://github.com/zhuchance) or drop him an email (couchacne@gmail.com).
+- Feel free to connect Guoyi via Github (https://github.com/zhuchance) or CDSN (https://blog.csdn.net/zhuchance) or drop him an email (couchacne@gmail.com).
 
-### 语言和工具:
+### Technology stack and tools:
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />&nbsp;
