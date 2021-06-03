@@ -51,7 +51,7 @@
 - WeChat: helloareyouok2021
 
 <p>
-  <a href="https://github.com/zhuchacne">
+  <a href="https://github.com/zhuchance">
     <img width="200" alt="github" src="https://github.com/zhuchance/zhuchance/blob/master/images/follow-image/github.png">
   </a>
   <a href="https://juejin.cn/user/3518898804361997">
