@@ -26,7 +26,7 @@
 ### Technology stack and tools:
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />&nbsp;
+  
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Goang"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" />&nbsp;
