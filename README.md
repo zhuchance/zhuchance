@@ -21,7 +21,7 @@
 
 - He enjoys watching movies, swimming, hiking, travelling, writing blogs and learning languages.
 
-- Feel free to connect Guoyi via Github (https://github.com/zhuchance) or CDSN (https://blog.csdn.net/zhuchance) or drop him an email (couchacne@gmail.com).
+- Feel free to connect Guoyi via Github (https://zhuchance.github.io/) or CDSN (https://blog.csdn.net/zhuchance) or drop him an email (couchacne@gmail.com).
 
 ### Technology stack and tools:
 
