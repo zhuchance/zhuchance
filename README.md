@@ -9,7 +9,7 @@
 
 ### About me
 
-- Guoyi Zhu is an System Operation Engineer for open source. He has a solid experience in the middleware and information technology industry for more than 5 years.
+- 朱云 is an System Operation Engineer for open source. He has a solid experience in the middleware and information technology industry for more than 5 years.
 
 - He loves open source, including kubernetes、docker、linux, etcd.
 
