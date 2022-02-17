@@ -2,7 +2,7 @@
 <h3 align="center">Operation and maintenance development that is learning hard💪</h3>
 
 - 🤵 I am an System Operation Engineer for open source. He has a solid experience in the middleware and information technology industry for more than 5 years.
-- 🌱 I am currently studying [golang](https://golang.org/)、[kubernetes](https://kubernetes.io/)、[Android](https://istio.io/),I am now a big fan of `kubernetes` & `Docker` 
+- 🌱 I am currently studying [golang](https://golang.org/)、[kubernetes](https://kubernetes.io/)、[Istio](https://istio.io/),I am now a big fan of `kubernetes` & `Docker` 
 
 - 💬 If you have any questions about `docker & k8s`, you can contact me by email：<zhuchance@126.com>
 - 👬 I very much hope to be friends with you, to communicate and learn together `docker & k8s`
