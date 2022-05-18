@@ -1,3 +1,7 @@
+<a href="https://github.com/lowlighter/metrics">
+  <img align="right" src="/metrics.classic.svg"/>
+</a>
+
 <h2 align="center">Hello👋，I am zhuchance</h1>
 <h3 align="center">Operation and maintenance development that is learning hard💪</h3>
 
